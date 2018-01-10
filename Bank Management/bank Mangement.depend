@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1512239596 source:c:\users\asifur\desktop\bank mangement\main.c
+	<stdio.h>
+	<dos.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<stdlib.h>
+	<process.h>
+	<time.h>
+
